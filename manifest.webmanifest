@@ -1,5 +1,6 @@
 {
   "name": "RS-AON8 Handshake App",
+  "id": "/",
   "short_name": "Handshake",
   "description": "Team AON8 handshake web app",
   "start_url": "/",
@@ -9,9 +10,10 @@
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "/handshake.png",
       "sizes": "any",
-      "type": "image/x-icon"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
