@@ -1,7 +1,7 @@
 {
-  "name": "RS-AON8 Handshake App",
+  "name": "AON8 Handshake App",
   "id": "/",
-  "short_name": "Handshake",
+  "short_name": "Handshake App",
   "description": "Team AON8 handshake web app",
   "start_url": "/",
   "scope": "/",
